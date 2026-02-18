@@ -7,9 +7,11 @@
     <URL>https://rother-oss.com/</URL>
     <License>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</License>
     <Description Lang="en">Provides an info tile and a marquee text for the customer dashboard, which can be configured via a separate admin section.</Description>
+    <Description Lang="hu">Információs csempét és futószöveget biztosít az ügyfél vezérlőpultjához, amely különálló adminisztrációs szakaszban állítható be.</Description>
     <Filelist>
         <File Permission="660" Location="Kernel/Config/Files/XML/ExtendedCDBInfoTile.xml" />
         <File Permission="660" Location="Kernel/Language/de_ExtendedCDBInfoTile.pm" />
+        <File Permission="660" Location="Kernel/Language/hu_ExtendedCDBInfoTile.pm" />
         <File Permission="660" Location="Kernel/Modules/AdminCustomerDashboardInfoTile.pm" />
         <File Permission="660" Location="Kernel/Modules/CustomerDashboardContent.pm" />
         <File Permission="660" Location="Kernel/Output/HTML/CustomerDashboard/InfoTile.pm" />
