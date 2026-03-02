@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ExtendedCDBInfoTile\n"
-"POT-Creation-Date: 2024-08-02 02:00+0000\n"
+"POT-Creation-Date: 2026-03-02 13:23+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,5 +16,121 @@ msgstr ""
 
 #. Template: AdminCustomerDashboardInfoTile
 msgid "Customer Dashboard Info Tile Management"
+msgstr ""
+
+#. Template: AdminCustomerDashboardInfoTile
+msgid "Create new info tile entry"
+msgstr ""
+
+#. Template: AdminCustomerDashboardInfoTile
+msgid "Filter for info tile entries"
+msgstr ""
+
+#. Template: AdminCustomerDashboardInfoTile
+msgid "Create a new entry to be displayed on the info tile on the customer dashboard."
+msgstr ""
+
+#. Template: AdminCustomerDashboardInfoTile
+msgid "Delete info tile entry"
+msgstr ""
+
+#. Template: AdminCustomerDashboardInfoTileEdit
+msgid "Edit customer dashboard info tile entry"
+msgstr ""
+
+#. Template: AdminCustomerDashboardInfoTileEdit
+msgid "Tile content"
+msgstr ""
+
+#. Template: AdminCustomerDashboardInfoTileEdit
+msgid "Content Body"
+msgstr ""
+
+#. Template: AdminCustomerDashboardInfoTileEdit
+msgid "Marquee content"
+msgstr ""
+
+#. Template: AdminCustomerDashboardInfoTileEdit
+msgid "Group Selection"
+msgstr ""
+
+#. Template: AdminCustomerDashboardInfoTileNew
+msgid "Create new customer dashboard info tile entry"
+msgstr ""
+
+#. Perl Module: Kernel/Modules/AdminCustomerDashboardInfoTile.pm
+msgid "Name is missing!"
+msgstr ""
+
+#. Perl Module: Kernel/Modules/AdminCustomerDashboardInfoTile.pm
+msgid "Content is missing!"
+msgstr ""
+
+#. Perl Module: Kernel/Modules/AdminCustomerDashboardInfoTile.pm
+msgid "ValidID is missing!"
+msgstr ""
+
+#. Perl Module: Kernel/Modules/AdminCustomerDashboardInfoTile.pm
+msgid "Group is missing!"
+msgstr ""
+
+#. Perl Module: Kernel/Modules/AdminCustomerDashboardInfoTile.pm
+msgid "There was an error creating the info tile entry"
+msgstr ""
+
+#. Perl Module: Kernel/Modules/AdminCustomerDashboardInfoTile.pm
+msgid "Need ID!"
+msgstr ""
+
+#. Perl Module: Kernel/Modules/AdminCustomerDashboardInfoTile.pm
+msgid "This Entry does not exist, or you don't have permissions to access it in its current state."
+msgstr ""
+
+#. Perl Module: Kernel/Modules/AdminCustomerDashboardInfoTile.pm
+msgid "Could not get data for ID %s"
+msgstr ""
+
+#. Perl Module: Kernel/Modules/AdminCustomerDashboardInfoTile.pm
+msgid "Info tile entry was added successfully!"
+msgstr ""
+
+#. Perl Module: Kernel/Modules/AdminCustomerDashboardInfoTile.pm
+msgid "Info tile entry was updated successfully!"
+msgstr ""
+
+#. Perl Module: Kernel/Modules/AdminCustomerDashboardInfoTile.pm
+msgid "There was an error updating the info tile entry"
+msgstr ""
+
+#. Perl Module: Kernel/Modules/AdminCustomerDashboardInfoTile.pm
+msgid "It was not possible to delete the info tile entry: %s!"
+msgstr ""
+
+#. JS File: Core.Agent.Admin.CustomerDashboardInfoTile
+msgid "Do you really want to delete this customer dashboard info tile entry?"
+msgstr ""
+
+#. SysConfig
+msgid "CustomerDashboard Info Tile"
+msgstr ""
+
+#. SysConfig
+msgid "Defines the module to display a notification in the customer interface. UseMarquee options: 1/0. NotifyPriority options: Notice/Error/Success/Info."
+msgstr ""
+
+#. SysConfig
+msgid "Frontend module for dashboard info tile in customer interface."
+msgstr ""
+
+#. SysConfig
+msgid "Loader module for dashboard info tile in customer interface."
+msgstr ""
+
+#. SysConfig
+msgid "Manage Customer Dashboard Info Tile Entries"
+msgstr ""
+
+#. SysConfig
+msgid "Tile registration for the CustomerDashboard. Module is required. Optionally, an order for items can be set. The order must have the name of the item as key and the desired position as integer value."
 msgstr ""
 
