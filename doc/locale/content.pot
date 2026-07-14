@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2019-2024 Rother OSS GmbH, https://otobo.de/
-# This file is distributed under the same license as the OTOBO Installation Guide package.
+# Copyright (C) 2019–2026 Rother OSS GmbH, https://otobo.io
+# This file is distributed under the same license as the OTOBO Documentation package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OTOBO Installation Guide rel-11.0\n"
+"Project-Id-Version: OTOBO Documentation dev\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-22 04:10+0200\n"
+"POT-Creation-Date: 2026-07-14 10:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,184 +16,183 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../content/index.rst:20
-msgid "Sacrifice to Sphinx"
+#: ../content/index.rst:5
+msgid "Contents"
 msgstr ""
 
-#: ../../content/index.rst:23
+#: ../content/index.rst:10
 msgid "Description"
 msgstr ""
 
-#: ../../content/index.rst:24
+#: ../content/index.rst:11
 msgid "Provides an new info tile and a marquee text for the customer dashboard, which can be configured via a separate admin section."
 msgstr ""
 
-#: ../../content/index.rst:27
+#: ../content/index.rst:14
 msgid "System requirements"
 msgstr ""
 
-#: ../../content/index.rst:30
+#: ../content/index.rst:17
 msgid "Framework"
 msgstr ""
 
-#: ../../content/index.rst:31
+#: ../content/index.rst:18
 msgid "OTOBO 10.1.x"
 msgstr ""
 
-#: ../../content/index.rst:34
+#: ../content/index.rst:21
 msgid "Packages"
 msgstr ""
 
-#: ../../content/index.rst:35
-#: ../../content/index.rst:39
+#: ../content/index.rst:22
+#: ../content/index.rst:26
 msgid "\\-"
 msgstr ""
 
-#: ../../content/index.rst:38
+#: ../content/index.rst:25
 msgid "Third-party software"
 msgstr ""
 
-#: ../../content/index.rst:42
+#: ../content/index.rst:29
 msgid "Usage"
 msgstr ""
 
-#: ../../content/index.rst:45
+#: ../content/index.rst:32
 msgid "Setup"
 msgstr ""
 
-#: ../../content/index.rst:48
+#: ../content/index.rst:35
 msgid "Configuration Reference"
 msgstr ""
 
-#: ../../content/index.rst:51
+#: ../content/index.rst:38
 msgid "Frontend::Admin::CustomerDashboardInfoTile"
 msgstr ""
 
-#: ../../content/index.rst:54
+#: ../content/index.rst:41
 msgid "Frontend::Module###AdminCustomerDashboardInfoTile"
 msgstr ""
 
-#: ../../content/index.rst:55
+#: ../content/index.rst:42
 msgid "Frontend module for dashboard info tile in customer interface."
 msgstr ""
 
-#: ../../content/index.rst:58
+#: ../content/index.rst:45
 msgid "Frontend::Admin::CustomerDashboardInfoTile::Loader"
 msgstr ""
 
-#: ../../content/index.rst:61
+#: ../content/index.rst:48
 msgid "Loader::Module::AdminCustomerDashboardInfoTile###002-ExtendedCDBInfoTile"
 msgstr ""
 
-#: ../../content/index.rst:62
+#: ../content/index.rst:49
 msgid "Loader module for dashboard info tile in customer interface."
 msgstr ""
 
-#: ../../content/index.rst:65
+#: ../content/index.rst:52
 msgid "Frontend::Admin::ModuleRegistration::AdminOverview"
 msgstr ""
 
-#: ../../content/index.rst:68
+#: ../content/index.rst:55
 msgid "Frontend::NavigationModule###AdminCustomerDashboardInfoTile"
 msgstr ""
 
-#: ../../content/index.rst:69
+#: ../content/index.rst:56
 msgid "Admin area navigation for the agent interface."
 msgstr ""
 
-#: ../../content/index.rst:72
+#: ../content/index.rst:59
 msgid "Frontend::Admin::ModuleRegistration::MainMenu"
 msgstr ""
 
-#: ../../content/index.rst:75
+#: ../content/index.rst:62
 msgid "Frontend::Navigation###AdminCustomerDashboardInfoTile###002-ExtendedCDBInfoTile"
 msgstr ""
 
-#: ../../content/index.rst:76
+#: ../content/index.rst:63
 msgid "Main menu item registration."
 msgstr ""
 
-#: ../../content/index.rst:79
+#: ../content/index.rst:66
 msgid "Frontend::Base::Loader"
 msgstr ""
 
-#: ../../content/index.rst:82
+#: ../content/index.rst:69
 msgid "Loader::Customer::CommonJS###009-ExtendedCDBInfo"
 msgstr ""
 
-#: ../../content/index.rst:83
+#: ../content/index.rst:70
 msgid "List of JS files to always be loaded for the customer interface."
 msgstr ""
 
-#: ../../content/index.rst:86
+#: ../content/index.rst:73
 msgid "Loader::Customer::CommonCSS###009-ExtendedCDBInfo"
 msgstr ""
 
-#: ../../content/index.rst:87
+#: ../content/index.rst:74
 msgid "List of CSS files to always be loaded for the customer interface."
 msgstr ""
 
-#: ../../content/index.rst:90
+#: ../content/index.rst:77
 msgid "Frontend::Customer::FrontendNotification"
 msgstr ""
 
-#: ../../content/index.rst:93
+#: ../content/index.rst:80
 msgid "CustomerFrontend::NotifyModule###8-CustomerAnnouncement-Check"
 msgstr ""
 
-#: ../../content/index.rst:94
+#: ../content/index.rst:81
 msgid "Defines the module to display a notification in the customer interface. UseMarquee options: 1/0. NotifyPriority options: Notice/Error/Success/Info."
 msgstr ""
 
-#: ../../content/index.rst:97
+#: ../content/index.rst:84
 msgid "Frontend::Customer::ModuleRegistration"
 msgstr ""
 
-#: ../../content/index.rst:100
+#: ../content/index.rst:87
 msgid "CustomerFrontend::Module###CustomerDashboardContent"
 msgstr ""
 
-#: ../../content/index.rst:101
+#: ../content/index.rst:88
 msgid "Frontend module registration for the customer interface."
 msgstr ""
 
-#: ../../content/index.rst:104
+#: ../content/index.rst:91
 msgid "Frontend::Customer::View::Dashboard::Tiles"
 msgstr ""
 
-#: ../../content/index.rst:107
+#: ../content/index.rst:94
 msgid "CustomerDashboard::Tiles###InfoTile-01"
 msgstr ""
 
-#: ../../content/index.rst:108
+#: ../content/index.rst:95
 msgid "Tile registration for the CustomerDashboard. Module is required. Optionally, an order for items can be set. The order must have the name of the item as key and the desired position as integer value."
 msgstr ""
 
-#: ../../content/index.rst:111
+#: ../content/index.rst:98
 msgid "About"
 msgstr ""
 
-#: ../../content/index.rst:114
+#: ../content/index.rst:101
 msgid "Contact"
 msgstr ""
 
-#: ../../content/index.rst:115
+#: ../content/index.rst:102
 msgid "Rother OSS GmbH"
 msgstr ""
 
-#: ../../content/index.rst:116
+#: ../content/index.rst:103
 msgid "Email: hello@otobo.de"
 msgstr ""
 
-#: ../../content/index.rst:117
+#: ../content/index.rst:104
 msgid "Web: https://otobo.de"
 msgstr ""
 
-#: ../../content/index.rst:120
+#: ../content/index.rst:107
 msgid "Version"
 msgstr ""
 
-#: ../../content/index.rst:121
+#: ../content/index.rst:108
 msgid "Author: |doc-vendor| / Version: |doc-version| / Date of release: |doc-datestamp|"
 msgstr ""
-
