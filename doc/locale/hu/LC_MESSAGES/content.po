@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: OTOBO Installation Guide rel-11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-07-14 10:20+0000\n"
-"PO-Revision-Date: 2026-10-13 09:41+0000\n"
+"PO-Revision-Date: 2026-10-13 20:41+0000\n"
 "Last-Translator: Balázs Úr <balazs@urbalazs.hu>\n"
 "Language-Team: Hungarian <http://translate.otobo.org/projects/otobo-10-1/"
 "addons/manuals/extendedcdbinfotile-documentation/hu/>\n"
@@ -149,7 +149,7 @@ msgstr "Loader::Customer::CommonCSS###009-ExtendedCDBInfo"
 
 #: ../content/index.rst:74
 msgid "List of CSS files to always be loaded for the customer interface."
-msgstr "CSS-fájlok listája, amelyek mindig betöltődnek az ügyfélfelületnél."
+msgstr "CSS fájlok listája, amelyek mindig betöltődnek az ügyfélfelületnél."
 
 #: ../content/index.rst:77
 msgid "Frontend::Customer::FrontendNotification"
