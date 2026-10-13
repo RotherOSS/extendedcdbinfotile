@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: OTOBO Installation Guide rel-11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-07-14 10:20+0000\n"
-"PO-Revision-Date: 2026-07-14 11:00+0000\n"
+"PO-Revision-Date: 2026-10-13 09:41+0000\n"
 "Last-Translator: Balázs Úr <balazs@urbalazs.hu>\n"
 "Language-Team: Hungarian <http://translate.otobo.org/projects/otobo-10-1/"
 "addons/manuals/extendedcdbinfotile-documentation/hu/>\n"
@@ -18,14 +18,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16\n"
+"X-Generator: Weblate 2026.9\n"
 "Generated-By: Babel 2.4.0\n"
 
 #: ../content/index.rst:5
-#, fuzzy
-#| msgid "Contact"
 msgid "Contents"
-msgstr "Kapcsolat"
+msgstr "Tartalom"
 
 #: ../content/index.rst:10
 msgid "Description"
@@ -36,6 +34,8 @@ msgid ""
 "Provides an new info tile and a marquee text for the customer dashboard, "
 "which can be configured via a separate admin section."
 msgstr ""
+"Új információs csempét és futószöveget biztosít az ügyfél vezérlőpultjához, "
+"amely különálló adminisztrációs szakaszban állítható be."
 
 #: ../content/index.rst:14
 msgid "System requirements"
@@ -75,11 +75,11 @@ msgstr "Beállítások hivatkozása"
 
 #: ../content/index.rst:38
 msgid "Frontend::Admin::CustomerDashboardInfoTile"
-msgstr ""
+msgstr "Frontend::Admin::CustomerDashboardInfoTile"
 
 #: ../content/index.rst:41
 msgid "Frontend::Module###AdminCustomerDashboardInfoTile"
-msgstr ""
+msgstr "Frontend::Module###AdminCustomerDashboardInfoTile"
 
 #: ../content/index.rst:42
 msgid "Frontend module for dashboard info tile in customer interface."
@@ -89,12 +89,13 @@ msgstr ""
 
 #: ../content/index.rst:45
 msgid "Frontend::Admin::CustomerDashboardInfoTile::Loader"
-msgstr ""
+msgstr "Frontend::Admin::CustomerDashboardInfoTile::Loader"
 
 #: ../content/index.rst:48
 msgid ""
 "Loader::Module::AdminCustomerDashboardInfoTile###002-ExtendedCDBInfoTile"
 msgstr ""
+"Loader::Module::AdminCustomerDashboardInfoTile###002-ExtendedCDBInfoTile"
 
 #: ../content/index.rst:49
 msgid "Loader module for dashboard info tile in customer interface."
@@ -103,15 +104,15 @@ msgstr ""
 
 #: ../content/index.rst:52
 msgid "Frontend::Admin::ModuleRegistration::AdminOverview"
-msgstr ""
+msgstr "Frontend::Admin::ModuleRegistration::AdminOverview"
 
 #: ../content/index.rst:55
 msgid "Frontend::NavigationModule###AdminCustomerDashboardInfoTile"
-msgstr ""
+msgstr "Frontend::NavigationModule###AdminCustomerDashboardInfoTile"
 
 #: ../content/index.rst:56
 msgid "Admin area navigation for the agent interface."
-msgstr ""
+msgstr "Adminisztrációs terület navigáció az ügyintézői felülethez."
 
 #: ../content/index.rst:59
 msgid "Frontend::Admin::ModuleRegistration::MainMenu"
@@ -122,6 +123,8 @@ msgid ""
 "Frontend::Navigation###AdminCustomerDashboardInfoTile###002-"
 "ExtendedCDBInfoTile"
 msgstr ""
+"Frontend::Navigation###AdminCustomerDashboardInfoTile###002-"
+"ExtendedCDBInfoTile"
 
 #: ../content/index.rst:63
 msgid "Main menu item registration."
@@ -129,31 +132,32 @@ msgstr "Főmenü elem regisztráció."
 
 #: ../content/index.rst:66
 msgid "Frontend::Base::Loader"
-msgstr ""
+msgstr "Frontend::Base::Loader"
 
 #: ../content/index.rst:69
 msgid "Loader::Customer::CommonJS###009-ExtendedCDBInfo"
-msgstr ""
+msgstr "Loader::Customer::CommonJS###009-ExtendedCDBInfo"
 
 #: ../content/index.rst:70
 msgid "List of JS files to always be loaded for the customer interface."
 msgstr ""
+"JavaScript-fájlok listája, amelyek mindig betöltődnek az ügyfélfelületnél."
 
 #: ../content/index.rst:73
 msgid "Loader::Customer::CommonCSS###009-ExtendedCDBInfo"
-msgstr ""
+msgstr "Loader::Customer::CommonCSS###009-ExtendedCDBInfo"
 
 #: ../content/index.rst:74
 msgid "List of CSS files to always be loaded for the customer interface."
-msgstr ""
+msgstr "CSS-fájlok listája, amelyek mindig betöltődnek az ügyfélfelületnél."
 
 #: ../content/index.rst:77
 msgid "Frontend::Customer::FrontendNotification"
-msgstr ""
+msgstr "Frontend::Customer::FrontendNotification"
 
 #: ../content/index.rst:80
 msgid "CustomerFrontend::NotifyModule###8-CustomerAnnouncement-Check"
-msgstr ""
+msgstr "CustomerFrontend::NotifyModule###8-CustomerAnnouncement-Check"
 
 #: ../content/index.rst:81
 msgid ""
@@ -166,23 +170,23 @@ msgstr ""
 
 #: ../content/index.rst:84
 msgid "Frontend::Customer::ModuleRegistration"
-msgstr ""
+msgstr "Frontend::Customer::ModuleRegistration"
 
 #: ../content/index.rst:87
 msgid "CustomerFrontend::Module###CustomerDashboardContent"
-msgstr ""
+msgstr "CustomerFrontend::Module###CustomerDashboardContent"
 
 #: ../content/index.rst:88
 msgid "Frontend module registration for the customer interface."
-msgstr ""
+msgstr "Előtétprogram-modul regisztráció az ügyfélfelülethez."
 
 #: ../content/index.rst:91
 msgid "Frontend::Customer::View::Dashboard::Tiles"
-msgstr ""
+msgstr "Frontend::Customer::View::Dashboard::Tiles"
 
 #: ../content/index.rst:94
 msgid "CustomerDashboard::Tiles###InfoTile-01"
-msgstr ""
+msgstr "CustomerDashboard::Tiles###InfoTile-01"
 
 #: ../content/index.rst:95
 msgid ""
