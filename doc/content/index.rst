@@ -12,7 +12,7 @@ Sacrifice to Sphinx
 
 Description
 ===========
-Provides an new info tile and a marquee text for the customer dashboard, which can be configured via a separate admin section.
+Provides an info tile and a marquee text for the customer dashboard, which can be configured via a separate admin section.
 
 System requirements
 ===================
