@@ -6,7 +6,7 @@
     <Vendor>Rother OSS GmbH</Vendor>
     <URL>https://otobo.io/</URL>
     <License>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</License>
-    <Description Lang="en">Provides an new info tile and a marquee text for the customer dashboard, which can be configured via a separate admin section.</Description>
+    <Description Lang="en">Provides an info tile and a marquee text for the customer dashboard, which can be configured via a separate admin section.</Description>
     <Description Lang="hu">Információs csempét és futószöveget biztosít az ügyfél vezérlőpultjához, amely különálló adminisztrációs szakaszban állítható be.</Description>
     <Filelist>
         <File Permission="660" Location="Kernel/Config/Files/XML/ExtendedCDBInfoTile.xml" />
